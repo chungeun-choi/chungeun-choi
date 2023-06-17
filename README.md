@@ -8,7 +8,7 @@
 ```go
 cucuridas  |information
 -----------+--------------------------------
-email      |3310223@naver.com                                
+email      |mose4343@naver.com                              
 notion     |https://cucuridas.notion.site/cu
 medium blog|https://medium.com/@cucuridas
 ```
