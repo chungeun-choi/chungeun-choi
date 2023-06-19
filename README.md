@@ -5,13 +5,10 @@
 </br>
 
 # ☎️ 연락처와 링크
-```go
-cucuridas  |information
------------+--------------------------------
-email      |mose4343@naver.com                              
-notion     |https://cucuridas.notion.site/cu
-medium blog|https://medium.com/@cucuridas
-```
+### email: mose4343@naver.com
+### notion: https://cucuridas.notion.site/cu
+### blog: https://medium.com/@cucuridas
+
 </br>
 
 # 🛠 기술
