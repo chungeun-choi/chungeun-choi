@@ -25,4 +25,11 @@ elasticsearch_deploy [(링크)](https://github.com/cucuridas/elasticsearch_deplo
 </br></br>
 analyitcs_chat_data [(링크)](https://github.com/cucuridas/analyitcs_chat_data) : wanted 프로온보딩 데이터 챌린지 진행 후 학습 내용을 바탕으로 개인 프로젝트 진행
 
+</br>
 
+# 🤓 스터디 자료 공유
+사내 스터디 1차 - Docker [(링크)](https://github.com/cucuridas/docker_study): 사내 스터디 1차 진행 내용으로 docker에 대해서 정리한 자료를 공유한 레파지토리입니다
+</br></br>
+사내 스터디 2차 - 컴퓨터 구조와 운영 채제 [(링크)](https://github.com/cucuridas/CS_OS_study) : 사내 스터디 2차 진행 내용으로 '혼자하는 컴퓨터구조+운영채제' 서적을 정리하여 공유한 레파지 토리 입니다
+</br></br>
+go 스터디 [(링크)](https://github.com/cucuridas/go_lang_study) : ‘Tucker의 Go 언어 프로그래밍’이라는 책 서적의 내용 정리와 스터디 시 공유되는 자료를 업로드 하기위한 레파지토리 입니다
