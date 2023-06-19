@@ -22,5 +22,6 @@ operator_custom_tg [(링크)](https://github.com/cucuridas/operator_custom_tg) :
 TG_Chatbot [(링크)](https://github.com/cucuridas/chatbot_tg) : 반복되는 종합 업무를 개선하기 위한 개인 사이드 프로젝트
 </br>
 elasticsearch_deploy [(링크)](https://github.com/cucuridas/elasticsearch_deploy) : docker를 통한 elasticsearch 환경 구축을 위한 yaml 파일 작성 내용
+analyitcs_chat_data [(링크)](https://github.com/cucuridas/analyitcs_chat_data) : wanted 프로온보딩 데이터 챌린지 진행 후 학습 내용을 바탕으로 개인 프로젝트 진행
 
 
