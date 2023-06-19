@@ -19,7 +19,7 @@ medium blog|https://medium.com/@cucuridas
 
 
 
-# 프로젝트
+# 💼 프로젝트
 operator_custom_tg [(링크)](https://github.com/cucuridas/operator_custom_tg) : TG-Cloud-Bigdata프로젝트 참여 후 개선사항 바탕으로 자체적으로 개선해본 프로젝트 </br>
 TG_Chatbot [(링크)](https://github.com/cucuridas/chatbot_tg) : 반복되는 종합 업무를 개선하기 위한 개인 사이드 프로젝트
 </br>
