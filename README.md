@@ -6,7 +6,7 @@
 
 # ☎️ 연락처와 링크
 ### email: mose4343@naver.com
-### notion: https://cucuridas.notion.site/cu
+### notion: [https://cucuridas.notion.site/cu](https://cucuridas.notion.site/eeaac649d47a4ff4a55ef7ced76196aa?pvs=4)
 ### blog: https://medium.com/@cucuridas
 
 </br>
