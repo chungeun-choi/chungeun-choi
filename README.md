@@ -32,4 +32,6 @@ analyitcs_chat_data [(링크)](https://github.com/cucuridas/analyitcs_chat_data)
 </br></br>
 사내 스터디 2차 - 컴퓨터 구조와 운영 채제 [(링크)](https://github.com/cucuridas/CS_OS_study) : 사내 스터디 2차 진행 내용으로 '혼자하는 컴퓨터구조+운영채제' 서적을 정리하여 공유한 레파지 토리 입니다
 </br></br>
-go 스터디 [(링크)](https://github.com/cucuridas/go_lang_study) : ‘Tucker의 Go 언어 프로그래밍’이라는 책 서적의 내용 정리와 스터디 시 공유되는 자료를 업로드 하기위한 레파지토리 입니다
+GO 스터디 [(링크)](https://github.com/cucuridas/go_lang_study) : ‘Tucker의 Go 언어 프로그래밍’이라는 책 서적의 내용 정리와 스터디 시 공유되는 자료를 업로드 하기위한 레파지토리 입니다
+</br></br>
+GO를 통한 디자인패턴 학습 [(링크)](https://github.com/cucuridas/designpattern): 'REFACTORY GURU'의 내용을 학습하며 학습내용을 바탕으로 GO언어를 통해 구현 해본 레파지토리 입니다
