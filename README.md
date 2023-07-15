@@ -16,7 +16,8 @@
 </br>
 
 # Certifications  
-<img src=https://www.credly.com/badges/e7d7d513-736a-40a9-b24c-5a49b6d5f35e/public_url>
+- CKA, 'The Linux Foundation', 2023-07
+- ADsP 'Korea Data Agency', 2023-06
 
 </br>
 
