@@ -11,7 +11,7 @@
 </br>
 
 # 🛠 Skills
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/> <img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=beats&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/> <img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=beats&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> 
 
 </br>
 
