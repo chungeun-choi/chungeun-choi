@@ -35,5 +35,6 @@ analyitcs_chat_data [(링크)](https://github.com/cucuridas/analyitcs_chat_data)
 GO 스터디 [(링크)](https://github.com/cucuridas/go_lang_study) : ‘Tucker의 Go 언어 프로그래밍’이라는 책 서적의 내용 정리와 스터디 시 공유되는 자료를 업로드 하기위한 레파지토리 입니다
 </br></br>
 GO를 통한 디자인패턴 학습 [(링크)](https://github.com/cucuridas/designpattern): 'REFACTORY GURU'의 내용을 학습하며 학습내용을 바탕으로 GO언어를 통해 구현 해본 레파지토리 입니다
-
+</br></br>
+GO를 통해 알고리즘 학습 [(링크)](https://github.com/cucuridas/go-algorithms): Go를 통해 알고리즘을 구현해보고 학습하기 위한 레파지토리 입니다 
 
