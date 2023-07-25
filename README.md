@@ -36,5 +36,5 @@ GO 스터디 [(링크)](https://github.com/cucuridas/go_lang_study) : ‘Tucker�
 </br></br>
 GO를 통한 디자인패턴 학습 [(링크)](https://github.com/cucuridas/designpattern): 'REFACTORY GURU'의 내용을 학습하며 학습내용을 바탕으로 GO언어를 통해 구현 해본 레파지토리 입니다
 </br></br>
-GO를 통해 알고리즘 학습 [(링크)](https://github.com/cucuridas/go-algorithms): Go를 통해 알고리즘을 구현해보고 학습하기 위한 레파지토리 입니다 
+알고리즘 학습 [(링크)](https://github.com/cucuridas/go-algorithms): Go와 python을 통해 알고리즘을 구현해보고 학습하기 위한 레파지토리 입니다 
 
