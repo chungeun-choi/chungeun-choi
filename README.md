@@ -22,9 +22,9 @@
 </br>
 
 # Contribution
-| PR  | link   |
-|-----|--------|
-| Fix test code - 'isMariaDB' #409 | [Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/409#event-9954080749)  |
+|project name| PR  | link   |
+|-----|--------|------|
+|[python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)| Fix test code - 'isMariaDB' #409 | [Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/409#event-9954080749)  |
 
 
 
