@@ -25,7 +25,7 @@
 |-----|--------|------|
 |[python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)| Fix test code - 'isMariaDB' #409 | [Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/409#event-9954080749)  |
 |[python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)| Developed the Mariadbannotate ros event #412|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/412)|
-
+|[python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)| Developed the 'MariadbStartEncryptionEvent' #415|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/415)|
 
 
 </br>
