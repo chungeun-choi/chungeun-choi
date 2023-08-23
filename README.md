@@ -39,7 +39,7 @@ TG_Chatbot [(링크)](https://github.com/cucuridas/chatbot_tg) : 반복되는 �
 </br></br>
 elasticsearch_deploy [(링크)](https://github.com/cucuridas/elasticsearch_deploy) : docker를 통한 elasticsearch 환경 구축을 위한 yaml 파일 작성 내용
 </br></br>
-analyitcs_chat_data [(링크)](https://github.com/cucuridas/analyitcs_chat_data) : wanted 프로온보딩 데이터 챌린지 진행 후 학습 내용을 바탕으로 개인 프로젝트 진행
+
 
 </br>
 
