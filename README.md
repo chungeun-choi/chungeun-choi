@@ -32,22 +32,3 @@
 
 
 </br>
-
-# 💼 Projects
-operator_custom_tg [(링크)](https://github.com/cucuridas/operator_custom_tg) : TG-Cloud-Bigdata프로젝트 참여 후 개선사항 바탕으로 자체적으로 개선해본 프로젝트 </br></br>
-TG_Chatbot [(링크)](https://github.com/cucuridas/chatbot_tg) : 반복되는 종합 업무를 개선하기 위한 개인 사이드 프로젝트
-</br></br>
-elasticsearch_deploy [(링크)](https://github.com/cucuridas/elasticsearch_deploy) : docker를 통한 elasticsearch 환경 구축을 위한 yaml 파일 작성 내용
-</br></br>
-
-
-</br>
-
-# 🤓 Sharing Study
-GO 스터디 [(링크)](https://github.com/cucuridas/go_lang_study) : ‘Tucker의 Go 언어 프로그래밍’이라는 책 서적의 내용 정리와 스터디 시 공유되는 자료를 업로드 하기위한 레파지토리 입니다
-</br></br>
-GO를 통한 디자인패턴 학습 [(링크)](https://github.com/cucuridas/designpattern): 'REFACTORY GURU'의 내용을 학습하며 학습내용을 바탕으로 GO언어를 통해 구현 해본 레파지토리 입니다
-</br></br>
-알고리즘 학습 [(링크)](https://github.com/cucuridas/go-algorithms): Go와 python을 통해 알고리즘을 구현해보고 학습하기 위한 레파지토리 입니다 
-
-
