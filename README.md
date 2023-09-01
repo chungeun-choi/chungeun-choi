@@ -29,7 +29,7 @@
 |[python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)| fix - Bug/increase history list length #431|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/431)|merged|
 |[python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)| Developed ‘MariadbGtidListEvent‘ class #447|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/447)|merged|
 |[python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)| Developing Logging Feature for 'BinLogStreamReader' Object Creation Parameters #460|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/460)|open|
-|[go-mysql](https://github.com/julien-duponchelle/python-mysql-replication)| Developing Logging Feature for 'BinLogStreamReader' Object Creation Parameters #460|[Link](https://github.com/go-mysql-org/go-mysql/pull/817)|open|
+|[go-mysql](https://github.com/go-mysql-org/go-mysql)| Add function to parse 'extradata’ in rows event #817|[Link](https://github.com/go-mysql-org/go-mysql/pull/817)|open|
 </br>
 
 
