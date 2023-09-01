@@ -2,13 +2,6 @@
 
 </br>
 
-# ☎️ How to reach me
-### email: 3310223@naver.com
-### notion: [https://cucuridas.notion.site/cu](https://cucuridas.notion.site/eeaac649d47a4ff4a55ef7ced76196aa?pvs=4)
-
-
-</br>
-
 # 🛠 Skills
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/> <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white"/> <img src="https://img.shields.io/badge/Beats-005571?style=flat-square&logo=beats&logoColor=white"/> <img src="https://img.shields.io/badge/Apache-airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"> 
 
