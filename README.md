@@ -29,6 +29,6 @@
 ## go-mysql [[link]](https://github.com/go-mysql-org/go-mysql)
 | PR  | link   | state|
 |--------|------|-------|
-|Add function to parse 'extradata’ in rows event #817|[Link](https://github.com/go-mysql-org/go-mysql/pull/817)|open|
+|Add function to parse 'extradata’ in rows event #817|[Link](https://github.com/go-mysql-org/go-mysql/pull/817)|merged|
 
 </br>
