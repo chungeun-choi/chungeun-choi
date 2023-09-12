@@ -23,7 +23,7 @@
 | fix - Bug/increase history list length #431|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/431)|merged|
 | Developed ‘MariadbGtidListEvent‘ class #447|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/447)|merged|
 | Developing Logging Feature for 'BinLogStreamReader' Object Creation Parameters #460|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/460)|open|
-| Incorrect Parsing of Extra Data(NDB info) in Rows Event #469 |[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/469)|open|
+| Incorrect Parsing of Extra Data(NDB info) in Rows Event #469 |[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/469)|merged|
 </br>  
 
 ## go-mysql [[link]](https://github.com/go-mysql-org/go-mysql)
