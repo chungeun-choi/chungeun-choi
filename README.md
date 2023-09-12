@@ -22,7 +22,7 @@
 | Developed the 'MariadbStartEncryptionEvent' #415|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/415)|merged|
 | fix - Bug/increase history list length #431|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/431)|merged|
 | Developed ‘MariadbGtidListEvent‘ class #447|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/447)|merged|
-| Developing Logging Feature for 'BinLogStreamReader' Object Creation Parameters #460|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/460)|open|
+| Developing Logging Feature for 'BinLogStreamReader' Object Creation Parameters #460|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/460)|merged|
 | Incorrect Parsing of Extra Data(NDB info) in Rows Event #469 |[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/469)|merged|
 </br>  
 
