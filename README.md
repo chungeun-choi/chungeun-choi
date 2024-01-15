@@ -1,4 +1,4 @@
-# cucuridas👋
+# Hi my name is ChungEun👋
 
 </br>
 
