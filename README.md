@@ -24,7 +24,6 @@
 | Developed ‘MariadbGtidListEvent‘ class #447|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/447)|merged|
 | Developing Logging Feature for 'BinLogStreamReader' Object Creation Parameters #460|[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/460)|merged|
 | Incorrect Parsing of Extra Data(NDB info) in Rows Event #469 |[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/469)|merged|
-| We need a logic to convert events into JSON format. #491  |[Link](https://github.com/julien-duponchelle/python-mysql-replication/pull/491)|open|
 </br>  
 
 ## go-mysql [[link]](https://github.com/go-mysql-org/go-mysql)
