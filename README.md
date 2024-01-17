@@ -33,3 +33,8 @@
 |Add function to parse 'extradata’ in rows event #817|[Link](https://github.com/go-mysql-org/go-mysql/pull/817)|merged|
 
 </br>
+
+## go-ansible [[[link]](https://github.com/go-mysql-org/go-mysql)](https://github.com/apenella/go-ansible)
+| PR  | link   | state|
+|--------|------|-------|
+|Adding feature to Execute the Inventory Command #134|[Link](https://github.com/apenella/go-ansible/pull/134)|open|
