@@ -36,4 +36,4 @@
 ## go-ansible [[link]](https://github.com/apenella/go-ansible)
 | PR  | link   | state|
 |--------|------|-------|
-|Adding feature to Execute the Inventory Command #134|[Link](https://github.com/apenella/go-ansible/pull/134)|open|
+|Adding feature to Execute the Inventory Command #134|[Link](https://github.com/apenella/go-ansible/pull/134)|merged|
