@@ -38,6 +38,8 @@
 |--------|------|-------|
 |Adding feature to Execute the Inventory Command #134|[Link](https://github.com/apenella/go-ansible/pull/134)|merged|
 
+</br>
+
 ## Debezium [[link]](https://github.com/debezium/debezium)
 | Issue  | link   | state|
 |--------|------|-------|
