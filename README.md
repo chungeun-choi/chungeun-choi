@@ -38,7 +38,7 @@
 |--------|------|-------|
 |Adding feature to Execute the Inventory Command #134|[Link](https://github.com/apenella/go-ansible/pull/134)|merged|
 
-## Debezium [[link]]([https://github.com/apenella/go-ansible](https://github.com/debezium/debezium)
+## Debezium [[link]](https://github.com/debezium/debezium)
 | Issue  | link   | state|
 |--------|------|-------|
 |Abnormal Behavior in Debezium Monitoring Example - mysql connector #DBZ-7826 |https://issues.redhat.com/browse/DBZ-7826|merged|
