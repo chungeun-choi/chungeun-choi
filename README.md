@@ -7,6 +7,11 @@
 
 </br>
 
+# Experience 
+Custom Ansible Core module development, published on DevOps.dev(a tech blog for DevOps). [[Link - Design]](https://medium.com/devops-dev/developing-ansible-strategy-modules-design-43c20880e600) [[Link - example,result]](https://medium.com/devops-dev/developing-ansible-strategy-modules-example-results-12ed4cff56b8)
+
+</br>
+
 # Certifications  
 - CKA, 'The Linux Foundation', 2023-07 [[link]](https://www.credly.com/badges/e7d7d513-736a-40a9-b24c-5a49b6d5f35e/public_url)
 - ADsP 'Korea Data Agency', 2023-06 [[link]](https://cucuridas.notion.site/ADsP-5aa0e34491e64b6483c50779132cbea2?pvs=4)
