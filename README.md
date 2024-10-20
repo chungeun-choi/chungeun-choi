@@ -50,3 +50,4 @@ Custom Ansible Core module development, published on DevOps.dev(a tech blog for 
 |--------|------|-------|
 |Abnormal Behavior in Debezium Monitoring Example - mysql connector #DBZ-7826 |https://issues.redhat.com/browse/DBZ-7826|merged|
 |The explanation in the documentation is insufficient - metric #DBZ-7912 |https://issues.redhat.com/browse/DBZ-7912|merged|
+|Align min, max of Histogram/Statistics #DBZ-6998 |https://issues.redhat.com/browse/DBZ-6998|Draft|
