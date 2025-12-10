@@ -19,6 +19,12 @@ Custom Ansible Core module development, published on DevOps.dev(a tech blog for 
 </br>
 
 # Contribution
+## redis-exporter [[link]](https://github.com/oliver006/redis_exporter)
+| PR  | link   | state|
+|--------|------|-------|
+|feat: add event loop metrics for Redis 7.0 |[link](https://github.com/oliver006/redis_exporter) |merged|
+</br>
+
 ## python-mysql-replication [[link]](https://github.com/julien-duponchelle/python-mysql-replication)
 | PR  | link   | state|
 |--------|------|-------|
